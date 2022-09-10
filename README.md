@@ -1,9 +1,10 @@
+
 *Commands to install Raspad Launcher*
 
-unzip raspad-launcher.zip
+	unzip raspad-launcher.zip
 
-cd raspad-launcher
+	cd raspad-launcher
 
-chmod +x install
+	chmod +x install
 
 sudo ./install
