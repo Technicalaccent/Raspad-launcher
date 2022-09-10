@@ -7,4 +7,4 @@
 
 	chmod +x install
 
-sudo ./install
+	sudo ./install
